@@ -1,0 +1,18 @@
+	(1)
+VARIABLES	price
+	
+bedrooms	17.73***
+	(0.904)
+bathrooms	24.52***
+	(1.004)
+review_scores_rating	0.244***
+	(0.0444)
+accommodates	17.89***
+	(0.368)
+Constant	-39.73***
+	(4.248)
+	
+Observations	36,448
+R-squared	0.279
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
